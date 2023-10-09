@@ -45,7 +45,7 @@ function MemoryCardGame({ pokemonData }) {
         Welcome to the Pokemon Memory Card Game created by Wiredguitars@github
       </h1>
       <h5>I own none of these sprites, you can find them on pokeapi.co</h5>
-      <h1>Memory Card Game</h1>
+      <h1>Memory Card Game, try clicking a unique image each time they shuffle!</h1>
       <p>Score: {score}</p>
       {gameOver ? <p>Game Over!</p> : null}
       <div className="card-container">
