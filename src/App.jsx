@@ -1,10 +1,11 @@
 import React from 'react'
-import Cards from './Components/RenderCards'
+import PokemonList from './Components/PokemonList'
 
 export default function App() {
+
   return (
     <>
-    <Cards />
+      <PokemonList />
     </>      
   )
 }
