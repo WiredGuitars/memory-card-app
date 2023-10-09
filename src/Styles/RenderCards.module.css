@@ -1,0 +1,10 @@
+.header{
+    font-size: 30px;
+}
+
+.li{
+    border: solid red;
+    list-style: none;
+    max-width: 300px;
+}
+
